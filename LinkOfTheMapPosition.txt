@@ -1,0 +1,2 @@
+I use https://mapzen.com/data/metro-extracts/ to download the compressed osm file. Because the file is easy to download on mapzen. The San Jose bz2 link is as following:
+https://s3.amazonaws.com/metro-extracts.mapzen.com/san-jose_california.osm.bz2

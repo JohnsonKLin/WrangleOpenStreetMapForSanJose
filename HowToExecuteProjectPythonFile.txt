@@ -1,0 +1,2 @@
+You can directly execute following command, it could read the sample osm file under the folder and out put as sjs.json.
+python data.py 
